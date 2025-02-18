@@ -1,18 +1,19 @@
 # PI_2025
 Repositório para o Projeto Integrador de Computação - 2025 1º Semestre
 
-## Grupo 17 - Turma 2 
+## Grupo 19 - Turma 4
 
 **Integrantes**: 
+  - Alessandro Costa Ferreira
   - Aurineide de Jesus Viana
   - Bruno Yoshiyo Kodama Wadamori
+  - Caio Gomes Rosati
+  - Cintia Mie Fukui
   - Daniel Vrena Alves
   - Stephanie de Oliveira Souza - @stephanie0503
-  - à definir 1
-  - à definir 2
-  - à definir 3
+  - Willian Fabian Soares Dellatore
 
-**Orientadora:** a definir
+**Orientadora:** Laura Mourão Nicoli 
 
 Acrescentar informações úteis por aqui.
 
