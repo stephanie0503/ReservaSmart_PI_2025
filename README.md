@@ -1,5 +1,8 @@
-# PI_2025
+# Reserva Smart
 Repositório para o Projeto Integrador de Computação - 2025 1º Semestre
+
+Reserva Smart - Automatização de atendimento para Centro de Tradições Gaúchas
+
 
 ## Grupo 19 - Turma 4
 
