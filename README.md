@@ -36,7 +36,7 @@ LUGAR RESERVADO NA COR VERMELHA
 ![image](https://github.com/user-attachments/assets/d6a09c27-bdcb-42c1-b774-9aca099750c5)
 
 
-BOTÃO NO MODAL PARA FAZER CHECKIN , CANCELAR RESERVA , E SALVRA RESERVA
+BOTÃO NO MODAL PARA FAZER CHECKIN , CANCELAR RESERVA , E SALVAR RESERVA
 
 ![image](https://github.com/user-attachments/assets/35e78a7f-e099-4d9b-b1c8-6ff9cc0bfb69)
 
