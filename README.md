@@ -2,7 +2,7 @@ Após consultarmos as partes envolvidas no projeto , optamos por trabalhar com u
 No backend , foi alterado de Python para Laravel , utilizado Laravel 12 + Composer , e PHP 8.2 .
 No frontend , foi escolhido o framework Vite+Vue .
 
-Para instalação local , crie um banco de dados em Postgres chamdado "reservas".
+Para instalação local , crie um banco de dados em Postgres chamado "reservas".
 Faça a importação do arquivo reservas.sql ( ele vai criar as tabelas ).
 
 
