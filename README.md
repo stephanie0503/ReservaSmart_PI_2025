@@ -61,3 +61,37 @@ INFORMAÇÕES NA DASHBOARD
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESTRUTURA ANTERIOR
+
+![image](https://github.com/user-attachments/assets/c12b8984-f670-4b23-b63d-de9f47bab29e)
+
+
+
+
+NO MODAL , NÃO HAVIA OPÇÃO DE CHECKIN 
+
+![image](https://github.com/user-attachments/assets/33bfc5be-af18-405b-8793-141ee051b115)
+
+
+
+
+
+
+
+
+
+
+
