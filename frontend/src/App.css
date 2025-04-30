@@ -1,0 +1,40 @@
+
+.chair {
+  display: inline-block;
+  text-align: center;
+  margin: 10px;
+}
+
+.chair-number {
+  background-color: #28a745;
+  color: white;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
+.chair-actions {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.chair-actions button {
+  padding: 5px 8px;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.chair-actions .checkin {
+  background-color: #007bff;
+  color: white;
+}
+
+.chair-actions .cancel {
+  background-color: #dc3545;
+  color: white;
+}
