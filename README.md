@@ -1,9 +1,8 @@
 # ReservaSmart
----
 
-Após consultarmos as partes envolvidas no projeto , optamos por trabalhar com uma estrutura mais robusta e indicada para o projeto.
+Após consultarmos as partes envolvidas no projeto, optamos por trabalhar com uma estrutura mais robusta e indicada para o projeto.
 
-No backend, foi alterado de Python para Laravel, utilizado Laravel 12 + Composer, e PHP 8.2.
+No backend, foi utilizado Laravel (Laravel 12 + Composer) e PHP 8.2.
 No frontend, foi escolhido o framework REACT+Vue.
 
 
