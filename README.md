@@ -51,12 +51,12 @@ Ele vai iniciar o frontend no endereço http://localhost:5173
 ![image](https://github.com/user-attachments/assets/34ac4468-d598-4190-8e61-e61f862c3dd9)
 
 ## Desenvolvedores/Contribuintes :octocat:
-Alessandro Costa Ferreira 
-Aurineide De Jesus Viana
-Bruno Yoshiyo Kodama Wadamori 
-Caio Gomes Rosati
-Cintia Mie Fukui 
-Daniel Vrena Alves
-Stephanie De Oliveira Souza 
-Willian Fabian Soares Dellatorre
+- Alessandro Costa Ferreira 
+- Aurineide De Jesus Viana
+- Bruno Yoshiyo Kodama Wadamori 
+- Caio Gomes Rosati
+- Cintia Mie Fukui 
+- Daniel Vrena Alves
+- Stephanie De Oliveira Souza 
+- Willian Fabian Soares Dellatorre
 
