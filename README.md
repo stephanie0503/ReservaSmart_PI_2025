@@ -1,5 +1,26 @@
 # ReservaSmart
 
+Repositório para desenvolvimento das atividades do Projeto Integrador I de Computação da UniVesp 2025 (1º Semestre) do Grupo 019 Turma 004.
+
+## Desenvolvedores/Contribuintes :octocat:
+- Alessandro Costa Ferreira
+- Aurineide De Jesus Viana
+- Bruno Yoshiyo Kodama Wadamori
+- Caio Gomes Rosati
+- Cintia Mie Fukui
+- Daniel Vrena Alves
+- Stephanie De Oliveira Souza
+- Willian Fabian Soares Dellatorre
+
+**Orientadora:** Laura Mourão Nicoli email: 24201479@cursos.univesp.br
+
+**Tema:** Desenvolvimento de um software com framework web que utilize noções de banco de dados, praticando controle de versão.
+
+**Video:** [https://youtu.be/K049lNtVwFg](https://www.youtube.com/watch?v=l2gFZC2OH1U)
+
+---
+## Sobre o projeto
+
 Após consultarmos as partes envolvidas no projeto, optamos por trabalhar com uma estrutura mais robusta e indicada para o projeto.
 
 No backend, foi utilizado Laravel (Laravel 12 + Composer) e PHP 8.2.
@@ -50,13 +71,4 @@ Ele vai iniciar o frontend no endereço http://localhost:5173
 
 ![image](https://github.com/user-attachments/assets/34ac4468-d598-4190-8e61-e61f862c3dd9)
 
-## Desenvolvedores/Contribuintes :octocat:
-- Alessandro Costa Ferreira 
-- Aurineide De Jesus Viana
-- Bruno Yoshiyo Kodama Wadamori 
-- Caio Gomes Rosati
-- Cintia Mie Fukui 
-- Daniel Vrena Alves
-- Stephanie De Oliveira Souza 
-- Willian Fabian Soares Dellatorre
 
